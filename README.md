@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Balatro Draft
+
+# Balatro Drafty
 
 A multiplayer Joker draft ruleset for Balatro Multiplayer.
 
@@ -10,7 +10,7 @@ A multiplayer Joker draft ruleset for Balatro Multiplayer.
 - Configurable rounds, timer, and options
 
 ## Installation
-1. Install [Steamodded](https://github.com/Steamodded/steamodded), [Lovely](https://github.com/ethangreen-dev/lovely-injector), and [Balatro Multiplayer](https://github.com/MultiplayerMod/BalatroMultiplayer)
+1. Install [Steamodded](https://github.com/Steamodded/steamodded), [Lovely](https://github.com/ethangreen-dev/lovely-injector), and [Balatro Multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayerPvP)
 2. Download the latest release
 3. Extract to `%APPDATA%\Balatro\Mods\`
 4. Enable in Mods menu
@@ -20,7 +20,3 @@ A multiplayer Joker draft ruleset for Balatro Multiplayer.
 - Lovely (>=0.9)
 - Balatro (>=1.0.1o)
 - Multiplayer (>=0.5.5)
-=======
-# Drafty
-A new draft based gamemode for balatro multiplayer
->>>>>>> 1d5687d6d0a2a0736d506bb13d6767454fcf8e8b
