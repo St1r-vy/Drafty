@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Balatro Draft
 
 A multiplayer Joker draft ruleset for Balatro Multiplayer.
@@ -19,3 +20,7 @@ A multiplayer Joker draft ruleset for Balatro Multiplayer.
 - Lovely (>=0.9)
 - Balatro (>=1.0.1o)
 - Multiplayer (>=0.5.5)
+=======
+# Drafty
+A new draft based gamemode for balatro multiplayer
+>>>>>>> 1d5687d6d0a2a0736d506bb13d6767454fcf8e8b
